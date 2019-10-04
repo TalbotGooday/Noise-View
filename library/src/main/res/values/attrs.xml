@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="NoiseView">
+		<attr name="frames_speed" format="integer"></attr>
+	</declare-styleable>
+</resources>

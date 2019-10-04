@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="noise_frames_list">
+		<item>@drawable/noise</item>
+		<item>@drawable/noise1</item>
+		<item>@drawable/noise2</item>
+		<item>@drawable/noise3</item>
+		<item>@drawable/noise4</item>
+	</array>
+</resources>
